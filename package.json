@@ -1,0 +1,33 @@
+{
+  "name": "weeklytastyvaporspecials",
+  "version": "1.0.0",
+  "description": "Weekly email notification for specials from tastyvapor.us",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottRudiger/weeklyTastyVaporSpecials.git"
+  },
+  "keywords": [
+    "vaping",
+    "vapes",
+    "shopping",
+    "save",
+    "shop",
+    "saving",
+    "savings",
+    "electronic",
+    "cigarettes",
+    "specials",
+    "email",
+    "notification"
+  ],
+  "author": "Scott Rudiger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottRudiger/weeklyTastyVaporSpecials/issues"
+  },
+  "homepage": "https://github.com/ScottRudiger/weeklyTastyVaporSpecials#readme"
+}
