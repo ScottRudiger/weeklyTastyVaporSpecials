@@ -4,6 +4,8 @@
   "description": "Weekly email notification for specials from tastyvapor.us",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js",
+    "start-dev": "nodemon server/server.js",
     "test": "mocha"
   },
   "repository": {
@@ -32,7 +34,8 @@
   "homepage": "https://github.com/ScottRudiger/weeklyTastyVaporSpecials#readme",
   "dependencies": {
     "express": "^4.15.5",
-    "nodemailer": "^4.1.1"
+    "nodemailer": "^4.1.1",
+    "nodemailer-html-to-text": "^2.1.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
